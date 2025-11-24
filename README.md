@@ -143,3 +143,7 @@ Overall, using RAG significantly improves factual grounding for questions about 
 
    ```bash
    pip install -r requirements.txt
+
+VIDEO DEMONSTRATION
+
+Link: https://www.youtube.com/watch?v=SRLMLioSFAc
